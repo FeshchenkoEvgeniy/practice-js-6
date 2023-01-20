@@ -1,0 +1,9 @@
+.gallery{
+    display: flex;
+}
+.info{
+    display: flex;
+}
+.info-item:not(:last-child){
+    padding-right: 20px;
+}
