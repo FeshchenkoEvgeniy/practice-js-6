@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://FeshchenkoEvgeniy.github.io/practice-js-6",
+  "homepage": "https://FeshchenkoEvgeniy.github.io/practice-js-6/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /practice-js-6/"
